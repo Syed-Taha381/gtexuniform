@@ -203,7 +203,7 @@ const Header = () => {
                 <div className="w-[49%] text-center">
                   <Link href="#">
                     <a>
-                      <Image src={women1} className={styles.zoomEffect} />
+                      <Image  alt="image" src={women1} className={styles.zoomEffect} />
                     </a>
                   </Link>
                   <Link href="#">
@@ -213,7 +213,7 @@ const Header = () => {
                 <div className="w-[49%] text-center">
                   <Link href="#">
                     <a>
-                      <Image src={women2} className={styles.zoomEffect} />
+                      <Image  alt="image" src={women2} className={styles.zoomEffect} />
                     </a>
                   </Link>
                   <Link href="#">
@@ -408,7 +408,7 @@ const Header = () => {
                 <div className="w-[49%] text-center">
                   <Link href="#">
                     <a>
-                      <Image src={men1} className={styles.zoomEffect} />
+                      <Image alt="image" src={men1} className={styles.zoomEffect} />
                     </a>
                   </Link>
                   <Link href="#">
@@ -418,7 +418,7 @@ const Header = () => {
                 <div className="w-[49%] text-center">
                   <Link href="#">
                     <a>
-                      <Image src={men2} className={styles.zoomEffect} />
+                      <Image alt="image" src={men2} className={styles.zoomEffect} />
                     </a>
                   </Link>
                   <Link href="#">

@@ -25,7 +25,7 @@ const InstaFeed = () => {
         <div
           className={`w-[39%] h-[513px] ${styles.firstImg} ${styles.aaja} relative`}
         >
-          <Image src={first} className={`cursor-pointer ${styles.firstImg}`} />
+          <Image  alt="image" src={first} className={`cursor-pointer ${styles.firstImg}`} />
           <span
             className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
           >
@@ -34,7 +34,7 @@ const InstaFeed = () => {
         </div>
         <div className="w-[19.5%]">
           <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={second} className={`${styles.second}`} />
+            <Image  alt="image" src={second} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >
@@ -42,7 +42,7 @@ const InstaFeed = () => {
             </span>
           </div>
          <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={third} className={`${styles.second}`} />
+            <Image  alt="image" src={third} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >
@@ -52,7 +52,7 @@ const InstaFeed = () => {
         </div>
         <div className="w-[19.5%]">
           <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={fourth} className={`${styles.second}`} />
+            <Image  alt="image" src={fourth} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >
@@ -60,7 +60,7 @@ const InstaFeed = () => {
             </span>
           </div>
          <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={fifth} className={`${styles.second}`} />
+            <Image  alt="image" src={fifth} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >
@@ -70,7 +70,7 @@ const InstaFeed = () => {
         </div>
         <div className="w-[19.5%]">
           <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={sixth} className={`${styles.second}`} />
+            <Image  alt="image" src={sixth} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >
@@ -78,7 +78,7 @@ const InstaFeed = () => {
             </span>
           </div>
          <div className={`${styles.second} relative ${styles.aaja}`}>
-            <Image src={seven} className={`${styles.second}`} />
+            <Image  alt="image" src={seven} className={`${styles.second}`} />
             <span
               className={`absolute bg-[#e1e1e1] top-[0] left-[0] bottom-[0] right-[0] overflow-hidden w-[100%] h-[100%] cursor-pointer opacity-[0.7] ${styles.showme}`}
             >

@@ -8,7 +8,7 @@ const YourName = () => {
         <div className="w-[50%] self-stretch"></div>
         <div className="py-[60px] w-[50%] flex flex-col justify-end">
           <h2 className="uppercase mt-[27.5px] mb-[30px] text-[40px] leading-[54px] black-color font-normal medium tracking-[0.4px] max-w-[360px] break-normal">
-            IT'S YOUR NAME, NOT OURS
+            IT&apos;S YOUR NAME, NOT OURS
           </h2>
           <p className="mb-[30px] text-[16px] leading-[26px] black-color font-normal max-w-[670px] medium break-normal">
             Unlike other brands, we reserve the chest space for YOUR name and
