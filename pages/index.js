@@ -1,11 +1,11 @@
 import Head from 'next/head'
-import HomeCards from '../Components/home/HomeCards'
-import FreeShipping from '../Components/Layout/FreeShipping'
-import Layout from '../Components/Layout/Layout'
-import YourName from '../Components/home/YourName'
-import Connect from '../Components/home/Connect'
-import InstaFeed from '../Components/home/InstaFeed'
-import Header from '../Components/home/Header'
+import HomeCards from '../components/home/HomeCards'
+import FreeShipping from '../components/Layout/FreeShipping'
+import Layout from '../components/Layout/Layout'
+import YourName from '../components/home/YourName'
+import Connect from '../components/home/Connect'
+import InstaFeed from '../components/home/InstaFeed'
+import Header from '../components/home/Header'
 
 export default function Home() {
   return (
